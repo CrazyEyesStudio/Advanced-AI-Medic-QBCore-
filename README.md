@@ -1,3 +1,6 @@
+# **DUE to people taking a free script and reselling i will no longer do anything with this script 
+**
+
 Introducing the Advanced AI Medic – a fully autonomous emergency medical response system. This AI-driven EMS system ensures your players never bleed out alone again!
 When EMS is unavailable, a paramedic NPC is dispatched to your location in an ambulance, revives you with a custom animation and prop, and then transports you to the nearest hospital.
 
